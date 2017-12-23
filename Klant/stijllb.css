@@ -1,21 +1,44 @@
-bbody { font-family: sans-serif;
-        background-image: url(Image/Domino2.jpg);
-        background-size : 700px 1000px;
-        background-attachment: fixed;
-        background-position: right center;
-        background-repeat: no-repeat;
-        margin-left: 30px;
-        margin-right: 700px;
-    }
+body {
+    font-family: sans-serif;
 
-h1 {
-    letter-spacing: 5px;
-     background-color: #007aaf;
-    color:white;
+    background-image: url(Image/Domino2.jpg);
+
+    background-size: 700px 1000px;
+
+    background-attachment: fixed;
+
+    background-position: right center;
+
+    background-repeat: no-repeat;
+
+    margin-left: 30px;
+
+    margin-right: 700px;
+
 }
 
-p    {font-family: sans-serif;
-    border-left: 6px solid #007aaf ;
+
+
+h1 {
+
+    letter-spacing: 5px;
+
+    background-color: #007aaf;
+
+    color: white;
+
+}
+
+
+
+p {
+    font-family: sans-serif;
+
+    border-left: 6px solid #007aaf;
+
     background-color: white;
+
     font-style: normal;
-    font-size: 14px;}
+
+    font-size: 14px;
+}
